@@ -1,3 +1,0 @@
-﻿git remote add origin https://github.com/tomo-git-program/daily-report.git
-git branch -M main
-git push -u origin main
